@@ -19,12 +19,13 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*4)+ 1);
+var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
 if(x=="1"){xxx="how-to-prevent-your-child-from-tech-addiction.html"}
 if(x=="2"){xxx="fun-indoor-activities-for-kids.html"}
 if(x=="3"){xxx="super-tips-to-buy-laptop-power-charger.html"}
-if(x=="4"){xxx="how-effective-the-electronic-medical-records.html"}a_to_ve[i].href="https://garage.supervba.com/2019/05/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="how-effective-the-electronic-medical-records.html"}
+if(x=="5"){xxx="ingredient-manufacturers-should-guarantee.html"}a_to_ve[i].href="https://garage.supervba.com/2019/05/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
